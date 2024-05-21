@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
 	name='coderone-challenge-dungeon',
-	version='0.1.7',
+	version='0.1.8',
 	description='Dungeons and data structures: Coder one AI Game Tournament',
 	url='https://github.com/gocoderone/dungeons-and-data-structures',
 	author='Ivan Ryabov',
